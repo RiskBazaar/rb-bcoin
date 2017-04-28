@@ -2,7 +2,7 @@
 
 https://github.com/bcoin-org/bcoin 
 
-"Bcoin is an alternative implementation of the Bitcoin protocol written in node.js by Chris Jeffrey, Fedor Indutny. RiskBazaar is building on Bcoin but as of today is not contributing to Bcoin and all credit for Bcoin must go to Chris Jeffrey, Fedor Indutny"
+Bcoin is an alternative implementation of the Bitcoin protocol written in node.js by Chris Jeffrey, Fedor Indutny. RiskBazaar is building on Bcoin but as of today is not contributing to Bcoin and all credit for Bcoin must go to Chris Jeffrey, Fedor Indutny
 
 ## Intro resources
 
